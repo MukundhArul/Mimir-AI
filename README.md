@@ -106,7 +106,7 @@ The **Intelligent Enterprise Assistant** is an AI-powered chatbot designed to bo
 Participants of Smart India Hackathon 2024 🎉
 
 1. [Mugundhan Y](https://github.com/MugundhanY) 🏆
-2. [Mukundh A P](https://github.com/MukundhArul) 🌟
+2. [Kishore Muruganantham](https://github.com/KishoreMuruganantham) 🌟
 3. [Praveen Kumar R](https://github.com/praveen647) 🔥
 
 ---
